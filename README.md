@@ -9,6 +9,21 @@ A Django-based project for managing and monitoring gas utility services. This pr
 
 ---
 
+## Screenshots  
+
+![Image](https://github.com/user-attachments/assets/87d5f897-188a-4c44-996c-f91be89740d9)
+
+![Image](https://github.com/user-attachments/assets/fa424935-1217-49eb-95ee-4bfef29f58ea)
+
+![Image](https://github.com/user-attachments/assets/faab22e7-6e21-47db-a2dc-8302a2347e71)
+
+![Image](https://github.com/user-attachments/assets/be7dccf6-94bf-42d5-8fca-a5c9687281c2)
+
+![Image](https://github.com/user-attachments/assets/abfd6774-b9ba-4da0-a553-5c3731977901)
+
+![Image](https://github.com/user-attachments/assets/1f889922-7349-4467-98c8-45c5c28135f2)
+
+
 ## Technologies Used  
 - **Python** (Django Framework)  
 - **HTML/CSS** (for front-end)  
@@ -52,18 +67,8 @@ Visit http://127.0.0.1:8000/ in your browser.
 
 ---
 
-## Screenshots  
-
-![Image](https://github.com/user-attachments/assets/87d5f897-188a-4c44-996c-f91be89740d9)
-
-![Image](https://github.com/user-attachments/assets/fa424935-1217-49eb-95ee-4bfef29f58ea)
-
-![Image](https://github.com/user-attachments/assets/faab22e7-6e21-47db-a2dc-8302a2347e71)
-
-![Image](https://github.com/user-attachments/assets/be7dccf6-94bf-42d5-8fca-a5c9687281c2)
-
-![Image](https://github.com/user-attachments/assets/abfd6774-b9ba-4da0-a553-5c3731977901)
-
-![Image](https://github.com/user-attachments/assets/1f889922-7349-4467-98c8-45c5c28135f2)
-
+## 📩 Contact  
+For any queries, reach out to me at:  
+📧 Email: toshitfirake2003@gmail.com 
+🔗 LinkedIn: www.linkedin.com/in/toshit-firake
 
